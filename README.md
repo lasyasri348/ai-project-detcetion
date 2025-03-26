@@ -1,1 +1,1 @@
-# ai-project-detcetion
+# ai-hand-detection
